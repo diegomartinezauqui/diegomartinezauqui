@@ -84,17 +84,6 @@ Proyecto de análisis de datos y Machine Learning.
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=diegomartinezauqui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomartinezauqui&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
----
 
 ## 📫 Contacto
 
